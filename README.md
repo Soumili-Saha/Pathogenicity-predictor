@@ -1,7 +1,8 @@
 # Pathogenicity-predictor
 Identification of Clinical Significance of genetic variants using LightGBM blended with Attention Mechanism.
 
-###Overview
+### Overview
+
 PathogenicityPredictor is a powerful tool designed to accurately identify clinical significance from genomic data, which is a major step towards personalized healthcare and early diagnosis. This intelligent machine learning system blends gradient boosting with an attention mechanism to analyze genetic mutations and predict different labels of clinical significance.
 
 Built on data from ClinVar, a trusted database containing detailed information on large-scale genetic variants, our approach analyzes genetic data by learning the feature importance responsible for each mutation. The system is particularly effective at recognizing subtle, complex patterns that might otherwise go unnoticed in genomic data.
