@@ -17,7 +17,7 @@ for **interpretable, high-accuracy predictions** on clinically annotated variant
 
 ## 🔍 Key Features
 
-- 🚀 **Built on ClinVar data** — a trusted database of genetic variant annotations.
+- 🚀 **Built on ClinVar data** — a trusted database of genetic variant annotations of 6.5 million data points.
 - 🧬 **Understands subtle mutation patterns** through feature learning and attention scoring.
 - 📈 **Performance Metrics**:
   - **Accuracy**: 93.75%
