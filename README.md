@@ -39,7 +39,7 @@ This model provides a robust framework for:
 
 ## 📚 Research Recognition
 
-📄 **Submitted for Presentation at AISC 2024 (International Conference on Data Management, Analytics & Innovation)**  
+📄 **Submitted for Presentation at AISC 2025 (International Conference on Data Management, Analytics & Innovation)**  
 
 ---
 
