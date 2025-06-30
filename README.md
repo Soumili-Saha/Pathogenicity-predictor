@@ -58,8 +58,4 @@ This tool is intended for **research and educational purposes only**. It is **no
 
 ---
 
-## 🤝 Contributions & Collaboration
-
-Interested in contributing or applying this to rare diseases, cancer genomics, or pharmacogenomics?  
-Feel free to fork, open issues, or reach out for collaboration!
 
